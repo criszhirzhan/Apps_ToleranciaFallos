@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "crusosapp"
+    }
+  },
+  "defaultProject": "crusosapp",
+  "cli": {
+    "analytics": false
+  }
 }
